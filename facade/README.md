@@ -1,5 +1,5 @@
 Facade design pattern is part of the Gang of Four design patterns.
-This pattern is under structural behavior category.
+This pattern is under structural category.
 
 The concept of this pattern is to hide the complexity of sub-systems
 by adding additional layers of abstaction. 
